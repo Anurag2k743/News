@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Libertinus+Math&family=Space+Grotesk:wght@300..700&display=swap');
 html, body {
   overflow-y: scroll;
   scrollbar-width: none; 
@@ -11,5 +12,8 @@ html, body {
 
 body{
     background-color: #202124;
-    color:white;    
+    color:white; 
+      font-family: "Space Grotesk", sans-serif;
+      letter-spacing: 1px;
+   
 }

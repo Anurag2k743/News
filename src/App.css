@@ -1,0 +1,15 @@
+html, body {
+  overflow-y: scroll;
+  scrollbar-width: none; 
+}
+.container{
+    box-sizing: border-box;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 16px;
+}
+
+body{
+    background-color: #202124;
+    color:white;    
+}
